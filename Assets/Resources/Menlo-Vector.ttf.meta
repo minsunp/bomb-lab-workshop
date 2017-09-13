@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ca64d8e7f206eb943be7cc5b5e8ca19a
+timeCreated: 1505302312
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Menlo
+  fontNames:
+  - Menlo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 281eae4ecc13e4f46abd658f48812b37, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
